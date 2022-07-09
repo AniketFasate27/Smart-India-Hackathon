@@ -1,9 +1,7 @@
 # Smart-India-Hackathon
 
-Smart India Hackathon is a non-stop digital product development competition, where problems are posed to technology students for innovative solutions. It:
+Smart India Hackathon is a nationwide initiative to provide students a platform to solve some of pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem solving.
 
-i) Harnesses creativity & expertise of students
-ii) Sparks institute-level hackathons
-iii) Builds funnel for ‘Startup India’ campaign
-iv) Crowd-source solutions for improving governance and quality of life
-v) Provides opportunity to citizens to provide innovative solutions to India’s daunting problems
+The last edition of the hackathon saw over 5 million+ students from various engineering colleges compete for the top prize at 35+ locations.
+
+In SIH, the students would also have the opportunity to work on challenges faced within the private sector organisations and create world class solutions for some of the top companies in the world, thus helping the Private sector hire the best minds from across the nation.
